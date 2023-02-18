@@ -14,4 +14,10 @@ And the mask usualy has the following formats:
 
 I have explained how to draw a 3D ROI/Mask with ITKSNAP [here]([https://pages.github.com/](https://www.linkedin.com/posts/behzad-amanpour-53703b39_artificialintelligence-machinelearning-classification-activity-6945656656504492032-yqZ1) (In Farsi Language)
 
-In **code.py** you will see how to extract a medical image values which are placed inside a mask ro an ROI
+In **code.py** you will see:
+
+  - How to load a DICOM image and its PNG mask, and how to exctract the values inside the mask
+  
+  - How to load a NIfTI image and its NIfTI mask, and how to exctract the values inside the mask
+  
+  - How to write down the masked DICOM image and masked NIfTI image.
