@@ -1,6 +1,6 @@
 """
 Inputs:
-    You can use "Image.dcm" which I uploaded as a file
+    I have uploaded necessary input images as "image-mask-roi.rar"
 """
 
 import numpy as np
